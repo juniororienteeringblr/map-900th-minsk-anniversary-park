@@ -1,0 +1,4 @@
+
+# Ignore fotopass files as they're too big
+20161224-fotopass/*
+
